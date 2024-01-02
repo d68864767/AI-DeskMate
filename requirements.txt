@@ -1,0 +1,9 @@
+# AutoHotkey
+AutoHotkey
+
+# OpenAI
+openai
+
+# Additional Libraries
+requests
+beautifulsoup4

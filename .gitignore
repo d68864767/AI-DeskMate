@@ -1,0 +1,25 @@
+# .gitignore
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment files
+venv/
+__pycache__/
+*.py[cod]
+
+# Ignore AutoHotkey compiled files
+*.exe
+*.ahk.pyc
+
+# Ignore OpenAI API keys
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore other unnecessary files
+*.bak
+*.swp
+*.swo
